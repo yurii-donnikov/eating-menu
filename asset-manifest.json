@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/eating-menu/static/css/main.e2168757.css",
+    "main.js": "/eating-menu/static/js/main.e82aa03f.js",
+    "static/media/dish.jpg": "/eating-menu/static/media/dish.78d82f7e2ffcdfb69a2d.jpg",
+    "index.html": "/eating-menu/index.html",
+    "main.e2168757.css.map": "/eating-menu/static/css/main.e2168757.css.map",
+    "main.e82aa03f.js.map": "/eating-menu/static/js/main.e82aa03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2168757.css",
+    "static/js/main.e82aa03f.js"
+  ]
+}
